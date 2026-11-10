@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the dataset."
+title: "weather-spoofing-mmwave-v2x"
+type: software
+license: MIT
+repository-code: "https://github.com/krbdfirst/weather-spoofing-mmwave-v2x"
+authors:
+  - {family-names: Bello, given-names: Rasheed}
+  - {family-names: Yusuf, given-names: Idreez}
+  - {family-names: Adjei Owusu, given-names: Justice}
+  - {family-names: Aiyewunmi, given-names: Oluwatobiloba}
+  - {family-names: Comert, given-names: Gurcan}
+  - {family-names: Mwakalonge, given-names: Judith}
+  - {family-names: Abuhdima, given-names: Esmail}
+  - {family-names: Mrebit, given-names: Abdulmajid}
+  - {family-names: Ataai, given-names: Rajab}
+  - {family-names: Varghese, given-names: Vaidyan}
+references:
+  - type: dataset
+    title: "Weather Spoofing Attack Dataset: Rain-Adaptive mmWave Band Selection in NR V2X Sidelink (ns-3 MilliCar)"
+    doi: 10.5281/zenodo.24097635
+    authors:
+      - {family-names: Bello, given-names: Rasheed}
+preferred-citation:
+  type: conference-paper
+  title: "Weather Data Spoofing Attacks on Rain-Adaptive Millimeter-Wave Frequency Selection in V2X Communication Networks"
+  conference: {name: "IEEE WiSEE 2026"}
+  year: 2026
+  authors:
+    - {family-names: Bello, given-names: Rasheed}
+    - {family-names: Yusuf, given-names: Idreez}
+    - {family-names: Adjei Owusu, given-names: Justice}
+    - {family-names: Aiyewunmi, given-names: Oluwatobiloba}
+    - {family-names: Comert, given-names: Gurcan}
+    - {family-names: Mwakalonge, given-names: Judith}
+    - {family-names: Abuhdima, given-names: Esmail}
+    - {family-names: Mrebit, given-names: Abdulmajid}
+    - {family-names: Ataai, given-names: Rajab}
+    - {family-names: Varghese, given-names: Vaidyan}
